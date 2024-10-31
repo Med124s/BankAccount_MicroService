@@ -32,7 +32,7 @@
 <img src="captures/Shema-graphql.png">
 <br>
 <h3>GraphQl Get Accounts</h3>
-<img src="captures/GraphQL-Get.png">
+<img src="captures/GraphQl-Get.png">
 <br>
 <h3>GraphQl Add Accounts</h3>
 <img src="captures/Graph-ql-Add.png">
